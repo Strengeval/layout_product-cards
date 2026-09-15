@@ -19,13 +19,10 @@ body {
   padding: 32px 16px 16px;
 
   &__image {
-    background-image: url(../images/imac.jpeg);
     width: 160px;
     height: 134px;
     margin: 0 auto 40px;
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
     box-sizing: border-box;
   }
 
